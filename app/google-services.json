@@ -1,0 +1,120 @@
+{
+  "project_info": {
+    "project_number": "824004833861",
+    "firebase_url": "https://frenster-informatika.firebaseio.com",
+    "project_id": "frenster-informatika",
+    "storage_bucket": "frenster-informatika.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824004833861:android:d750084911ec9b35e4e92c",
+        "android_client_info": {
+          "package_name": "informatika.frenster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824004833861-c9e6i5dvmitjislfdh4ieoie0lt938vh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "informatika.frenster",
+            "certificate_hash": "981131e74d2ed9ff8f82e3669704685aef85adbe"
+          }
+        },
+        {
+          "client_id": "824004833861-u2ngg819u7lu4tk2cr5lon7likq5ib62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "informatika.frenster",
+            "certificate_hash": "be0b8982c31dba556a8e8552efd95607ad2a06f3"
+          }
+        },
+        {
+          "client_id": "824004833861-m97f629euovu7te5ln868j1pdka7g4b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "informatika.frenster",
+            "certificate_hash": "1811b7eccf7cf355d8709c5d05874faa2eb8723a"
+          }
+        },
+        {
+          "client_id": "824004833861-ons3nt4kv17rekerv2mc92ba5r72tahv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "informatika.frenster",
+            "certificate_hash": "551d4c9fbc2490fd38ebb3b76f02d410c0d86061"
+          }
+        },
+        {
+          "client_id": "824004833861-ep215svff3p9916fi5m2cespmga1s3hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "informatika.frenster",
+            "certificate_hash": "10efbc7449b53ac4b5af70bd8c42ce47fbee1646"
+          }
+        },
+        {
+          "client_id": "824004833861-dkr12h6401qdbnpgu9jof8en45v4m0uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "informatika.frenster",
+            "certificate_hash": "589af5964e43821ca9e3054705ba698aa32dc365"
+          }
+        },
+        {
+          "client_id": "824004833861-07r0bo446uque970790hk268jpg2njc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "informatika.frenster",
+            "certificate_hash": "89d00edbadb42106bbb8db642c5b085fc3d53bcb"
+          }
+        },
+        {
+          "client_id": "824004833861-e1lvt6hmhks03ernqi7nthq8ibeusf9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "informatika.frenster",
+            "certificate_hash": "6cfde377c4bd2c39785f27f11c6297fe8a9c7e64"
+          }
+        },
+        {
+          "client_id": "824004833861-m31q2ggqhckivmac7eee9opghkkolq7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "informatika.frenster",
+            "certificate_hash": "bc7f07d052765a8d666290af985d8e756f09335f"
+          }
+        },
+        {
+          "client_id": "824004833861-mite4n096j7g8jirlca32fc4n8khfun1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "informatika.frenster",
+            "certificate_hash": "b54551cdfa45e2fc8f2987376c6666b6ea7d6092"
+          }
+        },
+        {
+          "client_id": "824004833861-pkqvp3sl0g5sne4lp96d46ik2f3knfa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WvjaJl6z9lZmZsY0_t5GQ96cM52vAio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824004833861-pkqvp3sl0g5sne4lp96d46ik2f3knfa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
